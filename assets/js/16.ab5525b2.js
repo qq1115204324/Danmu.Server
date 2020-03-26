@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{270:function(t,e,n){"use strict";n.r(e);var s=n(19),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("直播弹幕服务器是一个顺手而为的，目前来说还存在一些问题，以后会想办法完善的。")])])}),[],!1,null,null,null);e.default=l.exports}}]);
